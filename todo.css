@@ -1,0 +1,168 @@
+body
+{
+    height:auto;
+}
+#id1
+{
+    position:absolute;
+    bottom:10%;
+    width:35vw;
+    min-height:80vh;
+    left:30%;
+    border:solid 1px lightgray; 
+    border-radius:2px;
+    background-color: white;
+}
+#titlediv
+{
+    padding-top:20px;
+    padding-left:15px;
+    min-height: auto;
+}
+#id2
+{
+    min-height:70%;
+    width:70%;
+    position:absolute;
+    bottom:60px;
+    left:60px;
+    border:solid 2px tomato;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px lightgrey;
+}
+#id3
+{
+    font-size:2rem;
+    color:tomato;
+    margin-top:30px;
+}
+#id4
+{
+    font-size:1.5rem;
+    color:tomato;
+    margin-top:40px;
+    margin-bottom:10px;
+    text-decoration-line: line-through;
+    font-weight:bold;
+}
+#id5
+{
+    font-size:1.5rem;
+    color:black;
+    position: relative;
+    right:30px;
+    top:15px;
+}
+#id6
+{
+    display:inline-block;
+    border:solid 1px black;
+    border-radius:2px;
+    width:20px;
+    height:20px;
+}
+#titleid
+{
+    display:inline-block;
+    font-size:45px;
+    color: rgb(46, 45, 45);
+    font-weight: bolder;
+    padding-left:20px;
+}
+#hrid
+{
+    width:70%;
+    height:1px;
+    margin-top:5px;
+    background-color: black;
+    border:1px;
+    position:relative;
+    left:92px;
+}
+#plus
+{
+    position:absolute;
+    bottom:5px;
+    right:10px;
+}
+#maindiv
+{
+    min-height:50%;
+    background-color:aquamarine;
+}
+#secondbox
+{
+    
+    position:absolute;
+    bottom:35%;
+    left:10%;
+    width:80%;
+    height:30%;
+    background-color: white;
+    border-radius: 10px;
+    border:solid 2px tomato; 
+    text-align: center;
+    box-shadow:10px 10px 10px lightgray;
+}
+#outsidebox
+{
+    width:80%;
+    height:80%;
+    background-color:white;
+    position: absolute;
+    top:10%;
+    left:10%;
+}
+#insidebox
+{
+    width:75%;
+    height:25%;
+    background-color:white;
+    margin-bottom:10px;
+    border-radius:7px;
+    border:solid 2px tomato;
+}
+#new
+{
+    margin-top:20px;
+    margin-bottom: 10px;
+    font-size:1.5rem;
+    color:tomato ;
+}
+#addbox
+{
+    color:white;
+    position: relative;
+    left:35%;
+    width:35%;
+    height:25%;
+    background-color: tomato;
+    border-radius:20px;
+    font-size: 1.3rem;
+}
+#addtext
+{
+    position:relative;
+    top:5px;
+}
+.linethrough
+{
+    text-decoration-line: line-through;
+}
+#listfull
+{
+    
+    position:absolute;
+    bottom:35%;
+    left:10%;
+    width:80%;
+    height:10%;
+    font-size:2rem;
+    color:tomato;
+    font-weight:700;
+    background-color: white;
+    border-radius: 10px;
+    border:solid 2px tomato; 
+    text-align: center;
+    box-shadow:10px 10px 10px gray;
+}
